@@ -14,5 +14,16 @@ Basically there are many and this system is popular in many maybe close sourced 
 
 ## Images in our problem
 1. Images are mostly rectangular in shape and has a particular dimensions since these were tiff files but has a lot of noises due to several reasons.
+# Where are we going to get started?
+1. Contrast enhnacement
+2. Filtering using convolution
+3. Morphological operations
+## 1. Contrast Enhancement
+Image contrast means spread of pixels over the image. By this particular method we are going to make the a\pictures more vibrant and clear for the other system to extract text. 
+I have choosen the following two methods for this purpose
+i. Min-Max Stretch
+ii.Histogram Equalization (Source: https://docs.opencv.org/master/d4/d1b/tutorial_histogram_equalization.html)
+These enhances the particualr images.
+
 
 
