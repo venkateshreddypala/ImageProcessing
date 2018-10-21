@@ -23,7 +23,14 @@ Image contrast means spread of pixels over the image. By this particular method 
 I have choosen the following two methods for this purpose
 i. Min-Max Stretch
 ii.Histogram Equalization (Source: https://docs.opencv.org/master/d4/d1b/tutorial_histogram_equalization.html)
-These enhances the particualr images.
+These enhances the contrast in particualr images.
+
+## 2 .Differerent filtering Kernels by Convolution
+Different filtering kernels invloved are Box Blur, Gaussian Blur(has sigma), Sobel (in direction of X)(datatype is float, x grad and y grad), Laplacian.
+Noise like the dots on paper are approached with the median blur)
+
+## 3. Morphological Operations
+Performed on bianry images, works on boundary of images, two basic operations a) Erosion, b) dilation.
 
 
 
