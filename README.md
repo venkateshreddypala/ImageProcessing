@@ -9,6 +9,8 @@ We are planning on building a mobile application once after a sucessful backbone
 1. The document has to be rectified and cropped
 2. The background of the images are mostly bright but sometimes brown with black shadows and even sometimes missing edges, of course the first step addresses the last problem.
 3. The text in the image has to be of high contrast and the text has to be crisp.
+### Prerequisites for the knowledge
+Basically there are many and this system is popular in many maybe close sourced commercial applications the idea behind open-sourcing it is to allow future students or researchers to build upon it rather than building it up from scratch.
 
 ## Images in our problem
 1. Images are mostly rectangualr in shape and has a particular dimensions since these were tiff files but has a lot of noises due to several reasons.
