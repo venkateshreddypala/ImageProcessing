@@ -13,6 +13,6 @@ We are planning on building a mobile application once after a sucessful backbone
 Basically there are many and this system is popular in many maybe close sourced commercial applications the idea behind open-sourcing it is to allow future students or researchers to build upon it rather than building it up from scratch.
 
 ## Images in our problem
-1. Images are mostly rectangualr in shape and has a particular dimensions since these were tiff files but has a lot of noises due to several reasons.
+1. Images are mostly rectangular in shape and has a particular dimensions since these were tiff files but has a lot of noises due to several reasons.
 
 
