@@ -11,6 +11,6 @@ We are planning on building a mobile application once after a sucessful backbone
 3. The text in the image has to be of high contrast and the text has to be crisp.
 
 # Images in our problem
-1. Images are mostly rectangualr in shape and has a particular 
+1. Images are mostly rectangualr in shape and has a particular dimensions since these were tiff files but has a lot of noises due to several reasons.
 
 
