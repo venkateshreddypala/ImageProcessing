@@ -15,6 +15,8 @@ Basically there are many and this system is popular in many maybe close sourced 
 ## Images in our problem
 1. Images are mostly rectangular in shape and has a particular dimensions since these were tiff files but has a lot of noises due to several reasons.
 # Where are we going to get started?
+We will implement the computer vision algorithms. We will also use pre-implemented state of the art algorithms like Canny edge detection, Hough transforms, and so on in OpenCV along with those we need the following,
+
 1. Contrast enhnacement
 2. Filtering using convolution
 3. Morphological operations
